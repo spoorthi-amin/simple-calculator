@@ -1,2 +1,2 @@
 # simple-calculator 
-This is a project you can calculate with simple operation
+This is a project you can calculate  basic operation
